@@ -4,14 +4,14 @@
   "organizationUrl": "https://github.com/Julien-Raoult-28",
   "supportUrl": "https://github.com/Julien-Raoult-28/viz_looker/issues",
   "description": "Simple Looker Studio community visualization",
-  "logoUrl": "https://julien-raoult-28.github.io/viz_looker/table-chart.png",
+  "logoUrl": "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
   "devMode": true,
   "components": [
     {
       "id": "tableChart",
       "name": "Table",
       "description": "Simple table visualization",
-      "iconUrl": "https://julien-raoult-28.github.io/viz_looker/table-chart.png",
+      "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
       "resource": {
         "js": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.js",
         "config": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.json",
