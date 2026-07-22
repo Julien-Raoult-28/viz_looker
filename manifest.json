@@ -8,7 +8,7 @@
     "packageUrl": "https://github.com/Julien-Raoult-28/viz_looker",
     "privacyPolicyUrl": "https://github.com/Julien-Raoult-28/viz_looker",
     "description": "Community Visualization Codelab",
-    "devMode": true,
+    "devMode": false,
     "components": [
         {
             "id": "tableChart",
