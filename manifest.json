@@ -1,25 +1,22 @@
 {
-    "name": "Community Visualization",
-    "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
-    "organization": "Julien Raoult",
-    "organizationUrl": "https://github.com/Julien-Raoult-28",
-    "termsOfServiceUrl": "https://github.com/Julien-Raoult-28/viz_looker",
-    "supportUrl": "https://github.com/Julien-Raoult-28/viz_looker/issues",
-    "packageUrl": "https://github.com/Julien-Raoult-28/viz_looker",
-    "privacyPolicyUrl": "https://github.com/Julien-Raoult-28/viz_looker",
-    "description": "Community Visualization Codelab",
-    "devMode": false,
-    "components": [
-        {
-            "id": "tableChart",
-            "name": "Table",
-            "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
-            "description": "A simple table chart.",
-            "resource": {
-                "js": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.js",
-                "config": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.json",
-                "css": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.css"
-            }
-        }
-    ]
+  "name": "Table Visualization",
+  "organization": "Julien Raoult",
+  "organizationUrl": "https://github.com/Julien-Raoult-28",
+  "supportUrl": "https://github.com/Julien-Raoult-28/viz_looker/issues",
+  "description": "Simple Looker Studio community visualization",
+  "logoUrl": "https://julien-raoult-28.github.io/viz_looker/table-chart.png",
+  "devMode": true,
+  "components": [
+    {
+      "id": "tableChart",
+      "name": "Table",
+      "description": "Simple table visualization",
+      "iconUrl": "https://julien-raoult-28.github.io/viz_looker/table-chart.png",
+      "resource": {
+        "js": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.js",
+        "config": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.json",
+        "css": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.css"
+      }
+    }
+  ]
 }
