@@ -1,12 +1,12 @@
 {
     "name": "Community Visualization",
     "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
-    "organization": "Data Studio Codelab",
-    "organizationUrl": "https://url",
-    "termsOfServiceUrl": "https://url",
-    "supportUrl": "https://url",
-    "packageUrl": "https://url",
-    "privacyPolicyUrl": "https://url",
+    "organization": "Julien Raoult",
+    "organizationUrl": "https://github.com/Julien-Raoult-28",
+    "termsOfServiceUrl": "https://github.com/Julien-Raoult-28/viz_looker",
+    "supportUrl": "https://github.com/Julien-Raoult-28/viz_looker/issues",
+    "packageUrl": "https://github.com/Julien-Raoult-28/viz_looker",
+    "privacyPolicyUrl": "https://github.com/Julien-Raoult-28/viz_looker",
     "description": "Community Visualization Codelab",
     "devMode": true,
     "components": [
@@ -19,7 +19,7 @@
                 "js": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.js",
                 "config": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.json",
                 "css": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.css"
-            } 
+            }
         }
     ]
 }
