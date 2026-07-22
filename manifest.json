@@ -19,7 +19,7 @@
                 "js": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.js",
                 "config": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.json",
                 "css": "https://julien-raoult-28.github.io/viz_looker/viz-codelab.css"
-            }
+            } 
         }
     ]
 }
