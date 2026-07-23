@@ -5,7 +5,7 @@
   "supportUrl": "https://github.com/Julien-Raoult-28/viz_looker/issues",
   "description": "Simple Looker Studio community visualization",
   "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
-  "devMode": true,
+  "devMode": false,
   "components": [
     {
       "id": "tableChart",
